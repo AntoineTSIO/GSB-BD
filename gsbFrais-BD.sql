@@ -72,7 +72,8 @@ INSERT INTO `Etat` VALUES
 ('CL','Saisie clôturée'),
 ('CR','Fiche créée, saisie en cours'),
 ('RB','Remboursée'),
-('VA','Validée et mise en paiement');
+('VA','Validée'),
+('MP','Mise en paiement');
 /*!40000 ALTER TABLE `Etat` ENABLE KEYS */;
 UNLOCK TABLES;
 
